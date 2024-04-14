@@ -21,7 +21,7 @@ html .hoolix-top-nav-container {
   width: 100%;
 }
 html .hoolix-top-nav-container .top-nav {
-  max-width: 1240px;
+  max-width: 1140px;
   margin: auto;
   display: flex;
   justify-content: space-between;
@@ -93,7 +93,7 @@ html .hoolix-header-container {
   width: 100%;
 }
 html .hoolix-header-container .header {
-  max-width: 1240px;
+  max-width: 1140px;
   margin: auto;
   padding: 40px 0;
   border-bottom: 2px solid #BEBDBA;
@@ -126,7 +126,7 @@ html .hoolix-hero-container {
   width: 100%;
 }
 html .hoolix-hero-container .hero {
-  max-width: 1240px;
+  max-width: 1140px;
   margin: auto;
   padding: 40px 0;
 }
